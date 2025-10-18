@@ -2,3 +2,7 @@
 
 
 print("I love GIT")
+
+# this is a change to my code
+
+print("I love MERGING and BRANCHING")
